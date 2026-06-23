@@ -1,0 +1,12 @@
+dataset,check_name,issue_count,status,comments,check_date
+campaigns,Duplicate Campaign IDs,0,Passed,Campaign_ID should be unique.,2026-06-22 11:51:33
+campaigns,Missing Campaign Channels,1,Failed,Channel should not be missing.,2026-06-22 11:51:33
+campaigns,Clicks Greater Than Impressions,1,Failed,Clicks should not exceed impressions.,2026-06-22 11:51:33
+customers,Duplicate Customer IDs,0,Passed,Customer_ID should be unique.,2026-06-22 11:51:33
+customers,Missing Customer Segments,1,Failed,Customer segment should not be missing.,2026-06-22 11:51:33
+customers,Negative Lifetime Value,1,Failed,Lifetime value cannot be negative.,2026-06-22 11:51:33
+conversions,Duplicate Conversion IDs,5,Failed,Conversion_ID should be unique.,2026-06-22 11:51:33
+conversions,Missing Payment Methods,1,Failed,Payment method should not be missing.,2026-06-22 11:51:33
+conversions,Negative Revenue,1,Failed,Revenue cannot be negative.,2026-06-22 11:51:33
+conversions,Invalid Campaign References,1,Failed,Campaign_ID must exist in campaigns.,2026-06-22 11:51:33
+conversions,Invalid Customer References,1,Failed,Customer_ID must exist in customers.,2026-06-22 11:51:33

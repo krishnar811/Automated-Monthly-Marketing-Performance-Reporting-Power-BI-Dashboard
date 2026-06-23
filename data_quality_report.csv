@@ -1,0 +1,19 @@
+dataset,check_name,issue_count,status,comments,check_date
+campaigns,Duplicate Campaign IDs,0,Passed,Campaign_ID should be unique.,2026-06-22 11:44:17
+campaigns,Missing Campaign Channels,1,Failed,Channel should not be missing.,2026-06-22 11:44:17
+campaigns,Negative Marketing Spend,0,Passed,Marketing spend cannot be negative.,2026-06-22 11:44:17
+campaigns,Clicks Greater Than Impressions,1,Failed,Clicks should not exceed impressions.,2026-06-22 11:44:17
+campaigns,End Date Before Start Date,0,Passed,Campaign end date must be after the start date.,2026-06-22 11:44:17
+customers,Duplicate Customer IDs,0,Passed,Customer_ID should be unique.,2026-06-22 11:44:17
+customers,Missing Customer Segments,1,Failed,Customer segment should not be missing.,2026-06-22 11:44:17
+customers,Negative Lifetime Value,1,Failed,Lifetime value cannot be negative.,2026-06-22 11:44:17
+customers,Negative Previous Orders,0,Passed,Previous order count cannot be negative.,2026-06-22 11:44:17
+customers,Invalid Acquisition Channels,1,Failed,Acquisition channel should match the approved channel list.,2026-06-22 11:44:17
+conversions,Duplicate Conversion IDs,5,Failed,Conversion_ID should be unique.,2026-06-22 11:44:17
+conversions,Missing Payment Methods,1,Failed,Payment method should not be missing.,2026-06-22 11:44:17
+conversions,Negative Revenue,1,Failed,Revenue cannot be negative.,2026-06-22 11:44:17
+conversions,Negative Order Value,0,Passed,Order value cannot be negative.,2026-06-22 11:44:17
+conversions,Conversions Outside Reporting Period,1,Failed,Conversion dates must fall within 2025.,2026-06-22 11:44:17
+conversions,Invalid Campaign References,1,Failed,Campaign_ID must exist in the campaigns dataset.,2026-06-22 11:44:17
+conversions,Invalid Customer References,1,Failed,Customer_ID must exist in the customers dataset.,2026-06-22 11:44:17
+conversions,Completed Purchases With Invalid Revenue,1,Failed,Completed purchases should have positive revenue.,2026-06-22 11:44:17

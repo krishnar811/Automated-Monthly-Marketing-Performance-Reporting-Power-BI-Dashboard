@@ -1,0 +1,201 @@
+Campaign_ID,Campaign_Name,Channel,Start_Date,End_Date,Marketing_Spend,Impressions,Clicks,Campaign_Objective,Target_Segment,Campaign_Status,Region
+CMP001,Jan Email Retention 001,Email,2025-01-11,2025-01-26,33909,494183,19481,Retention,New Customer,Completed,West India
+CMP002,Feb Paid Search Retention 002,Paid Search,2025-02-01,2025-02-16,112211,270374,12959,Retention,Regular Customer,Completed,Central India
+CMP003,Mar Affiliate App 003,Affiliate,2025-03-05,2025-03-31,60548,230423,6591,App Installs,New Customer,Completed,West India
+CMP004,Apr Email Lead 004,Email,2025-04-02,2025-04-22,42666,635070,17773,Lead Generation,Regular Customer,Completed,West India
+CMP005,May Affiliate Customer 005,Affiliate,2025-05-09,2025-05-27,35427,141779,3435,Customer Acquisition,New Customer,Completed,South India
+CMP006,Jun Paid Search App 006,Paid Search,2025-06-02,2025-06-29,141838,395569,20622,App Installs,New Customer,Completed,North India
+CMP007,Jul Display Ads Retention 007,Display Ads,2025-07-11,2025-07-29,66940,443286,5397,Retention,Regular Customer,Completed,East India
+CMP008,Aug Referral Customer 008,Referral,2025-08-07,2025-08-25,23167,276954,12536,Customer Acquisition,New Customer,Completed,South India
+CMP009,Sep Email Revenue 009,Email,2025-09-07,2025-09-25,45840,664320,20439,Revenue Growth,Regular Customer,Completed,East India
+CMP010,Oct Email Lead 010,Email,2025-10-03,2025-10-21,34616,506092,13747,Lead Generation,Premium Customer,Completed,South India
+CMP011,Nov Social Media Revenue 011,Social Media,2025-11-04,2025-11-20,91220,384941,11104,Revenue Growth,Premium Customer,Completed,Central India
+CMP012,Dec Paid Search Customer 012,Paid Search,2025-12-02,2025-12-22,161225,496596,23708,Customer Acquisition,Regular Customer,Completed,Central India
+CMP013,Jan Display Ads App 013,Display Ads,2025-01-05,2025-01-31,86000,537354,7851,App Installs,Inactive Customer,Completed,Central India
+CMP014,Feb Social Media App 014,Social Media,2025-02-02,2025-02-28,100431,437898,10057,App Installs,Premium Customer,Paused,Central India
+CMP015,Mar Paid Search App 015,Paid Search,2025-03-01,2025-03-24,196723,590157,29759,App Installs,New Customer,Completed,Central India
+CMP016,Apr Display Ads Revenue 016,Display Ads,2025-04-02,2025-04-17,91823,588696,4170,Revenue Growth,New Customer,Completed,Central India
+CMP017,May Social Media Revenue 017,Social Media,2025-05-03,2025-05-21,36816,202758,4038,Revenue Growth,Regular Customer,Completed,South India
+CMP018,Jun Social Media Retention 018,Social Media,2025-06-08,2025-06-30,97304,445544,13579,Retention,Regular Customer,Paused,North India
+CMP019,Jul Display Ads App 019,Display Ads,2025-07-01,2025-07-16,76826,413115,5501,App Installs,New Customer,Completed,South India
+CMP020,Aug Paid Search Lead 020,Paid Search,2025-08-11,2025-08-31,173017,472811,29762,Lead Generation,New Customer,Completed,East India
+CMP021,Sep Email Customer 021,Email,2025-09-04,2025-09-19,25663,343582,12979,Customer Acquisition,Regular Customer,Completed,West India
+CMP022,Oct Paid Search Lead 022,Paid Search,2025-10-07,2025-10-31,136399,327633,14091,Lead Generation,New Customer,Completed,South India
+CMP023,Nov Affiliate Customer 023,Affiliate,2025-11-08,2025-11-25,87161,379642,13960,Customer Acquisition,New Customer,Paused,West India
+CMP024,Dec Display Ads Lead 024,Display Ads,2025-12-02,2025-12-30,71711,452159,6954,Lead Generation,Inactive Customer,Completed,East India
+CMP025,Jan Paid Search Retention 025,Paid Search,2025-01-01,2025-01-21,127864,332982,12885,Retention,Regular Customer,Completed,North India
+CMP026,Feb Paid Search App 026,Paid Search,2025-02-04,2025-02-22,171157,391911,20796,App Installs,New Customer,Paused,East India
+CMP027,Mar Affiliate Revenue 027,Affiliate,2025-03-09,2025-03-31,83489,281433,12453,Revenue Growth,New Customer,Completed,North India
+CMP028,Apr Referral Customer 028,Referral,2025-04-07,2025-04-22,19993,191736,9487,Customer Acquisition,Regular Customer,Paused,Central India
+CMP029,May Referral Lead 029,Referral,2025-05-09,2025-05-28,33778,348576,24423,Lead Generation,New Customer,Completed,East India
+CMP030,Jun Display Ads Customer 030,Display Ads,2025-06-06,2025-06-30,89486,659673,9328,Customer Acquisition,New Customer,Completed,Central India
+CMP031,Jul Referral Revenue 031,Referral,2025-07-05,2025-07-21,42655,460647,18953,Revenue Growth,Regular Customer,Paused,South India
+CMP032,Aug Display Ads Customer 032,Display Ads,2025-08-10,2025-08-31,106084,629074,8311,Customer Acquisition,Inactive Customer,Completed,South India
+CMP033,Sep Email App 033,Email,2025-09-02,2025-09-30,27618,386502,12890,App Installs,New Customer,Completed,Central India
+CMP034,Oct Referral App 034,Referral,2025-10-08,2025-10-26,32099,353010,18149,App Installs,New Customer,Completed,North India
+CMP035,Nov Email Customer 035,Email,2025-11-11,2025-11-29,20685,285480,10997,Customer Acquisition,New Customer,Completed,Central India
+CMP036,Dec Paid Search App 036,Paid Search,2025-12-01,2025-12-28,86307,196190,8834,App Installs,Premium Customer,Completed,South India
+CMP037,Jan Paid Search Lead 037,Paid Search,2025-01-04,2025-01-28,166701,500877,28575,Lead Generation,Inactive Customer,Completed,North India
+CMP038,Feb Affiliate App 038,Affiliate,2025-02-03,2025-02-28,62766,263874,8213,App Installs,Premium Customer,Completed,North India
+CMP039,Mar Affiliate Revenue 039,Affiliate,2025-03-05,2025-03-21,86513,377108,14834,Revenue Growth,New Customer,Completed,South India
+CMP040,Apr Affiliate App 040,Affiliate,2025-04-05,2025-04-30,60515,212671,7070,App Installs,New Customer,Completed,South India
+CMP041,May Social Media Customer 041,Social Media,2025-05-06,2025-05-30,65352,298527,5739,Customer Acquisition,New Customer,Completed,North India
+CMP042,Jun Email Lead 042,Email,2025-06-10,2025-06-28,27584,408067,12932,Lead Generation,Regular Customer,Paused,West India
+CMP043,Jul Social Media Retention 043,Social Media,2025-07-07,2025-07-31,83890,339777,12202,Retention,Regular Customer,Completed,South India
+CMP044,Aug Referral Customer 044,Referral,2025-08-07,2025-08-22,40311,478768,23170,Customer Acquisition,Regular Customer,Completed,Central India
+CMP045,Sep Paid Search Lead 045,Paid Search,2025-09-05,2025-09-29,96994,227681,11876,Lead Generation,Regular Customer,Completed,North India
+CMP046,Oct Paid Search Lead 046,Paid Search,2025-10-10,2025-10-31,119085,296045,14188,Lead Generation,Premium Customer,Paused,South India
+CMP047,Nov Social Media Revenue 047,Social Media,2025-11-08,2025-11-29,91092,497704,16702,Revenue Growth,Regular Customer,Completed,Central India
+CMP048,Dec Social Media App 048,Social Media,2025-12-11,2025-12-31,133841,591135,20616,App Installs,New Customer,Completed,North India
+CMP049,Jan Paid Search Lead 049,Paid Search,2025-01-01,2025-01-15,55378,127374,6447,Lead Generation,Premium Customer,Paused,North India
+CMP050,Feb Paid Search Customer 050,Paid Search,2025-02-12,2025-02-28,104663,296613,15091,Customer Acquisition,Premium Customer,Completed,North India
+CMP051,Mar Social Media Revenue 051,Social Media,2025-03-12,2025-03-31,35259,149439,3590,Revenue Growth,Premium Customer,Paused,Central India
+CMP052,Apr Referral Retention 052,Referral,2025-04-10,2025-04-29,38979,470935,21852,Retention,Regular Customer,Paused,East India
+CMP053,May Affiliate App 053,Affiliate,2025-05-03,2025-05-28,33323,144462,5051,App Installs,Premium Customer,Paused,East India
+CMP054,Jun Paid Search App 054,Paid Search,2025-06-11,2025-06-28,144361,356976,18318,App Installs,Premium Customer,Completed,North India
+CMP055,Jul Paid Search App 055,Paid Search,2025-07-03,2025-07-20,133369,346375,18327,App Installs,Regular Customer,Completed,West India
+CMP056,Aug Social Media Retention 056,Social Media,2025-08-04,2025-08-31,111055,570887,13839,Retention,Regular Customer,Completed,South India
+CMP057,Sep Paid Search Retention 057,Paid Search,2025-09-05,2025-09-30,169623,458702,17276,Retention,Premium Customer,Completed,East India
+CMP058,Oct Social Media Lead 058,,2025-10-04,2025-10-22,106185,543119,15656,Lead Generation,Regular Customer,Completed,North India
+CMP059,Nov Email Lead 059,Email,2025-11-10,2025-11-30,25064,287047,11486,Lead Generation,New Customer,Completed,North India
+CMP060,Dec Paid Search Lead 060,Paid Search,2025-12-01,2025-12-19,127131,368414,20434,Lead Generation,New Customer,Completed,South India
+CMP061,Jan Email Customer 061,Email,2025-01-02,2025-01-23,12000,154477,4378,Customer Acquisition,Premium Customer,Completed,West India
+CMP062,Feb Affiliate Customer 062,Affiliate,2025-02-04,2025-02-21,51030,197500,5739,Customer Acquisition,Regular Customer,Completed,East India
+CMP063,Mar Display Ads Customer 063,Display Ads,2025-03-12,2025-03-30,83234,570577,9004,Customer Acquisition,Premium Customer,Completed,South India
+CMP064,Apr Email Lead 064,Email,2025-04-02,2025-04-25,29405,457226,20011,Lead Generation,Inactive Customer,Completed,West India
+CMP065,May Affiliate Retention 065,Affiliate,2025-05-10,2025-05-31,61166,223378,9134,Retention,Premium Customer,Paused,West India
+CMP066,Jun Social Media Lead 066,Social Media,2025-06-06,2025-06-28,65578,300599,9723,Lead Generation,Premium Customer,Completed,East India
+CMP067,Jul Referral Retention 067,Referral,2025-07-06,2025-07-30,25313,255415,14412,Retention,Inactive Customer,Completed,Central India
+CMP068,Aug Social Media Revenue 068,Social Media,2025-08-09,2025-08-31,49547,221444,6912,Revenue Growth,Premium Customer,Completed,South India
+CMP069,Sep Display Ads Lead 069,Display Ads,2025-09-08,2025-09-25,43645,262145,3020,Lead Generation,Premium Customer,Completed,East India
+CMP070,Oct Affiliate App 070,Affiliate,2025-10-04,2025-10-23,41388,172140,7231,App Installs,Regular Customer,Paused,North India
+CMP071,Nov Display Ads Lead 071,Display Ads,2025-11-02,2025-11-19,37060,249668,3316,Lead Generation,Regular Customer,Completed,West India
+CMP072,Dec Paid Search Retention 072,Paid Search,2025-12-05,2025-12-22,122086,312211,18966,Retention,Regular Customer,Completed,Central India
+CMP073,Jan Display Ads Revenue 073,Display Ads,2025-01-06,2025-01-25,68045,378422,5587,Revenue Growth,New Customer,Paused,North India
+CMP074,Feb Display Ads Retention 074,Display Ads,2025-02-04,2025-02-21,65664,451796,7264,Retention,New Customer,Completed,North India
+CMP075,Mar Paid Search Customer 075,Paid Search,2025-03-05,2025-03-22,102995,241705,14703,Customer Acquisition,Inactive Customer,Paused,South India
+CMP076,Apr Social Media App 076,Social Media,2025-04-12,2025-04-28,85194,346474,8888,App Installs,Regular Customer,Completed,South India
+CMP077,May Paid Search Lead 077,Paid Search,2025-05-03,2025-05-17,130679,299723,13413,Lead Generation,New Customer,Completed,North India
+CMP078,Jun Social Media Lead 078,Social Media,2025-06-03,2025-06-29,59770,253051,10928,Lead Generation,Regular Customer,Paused,North India
+CMP079,Jul Social Media App 079,Social Media,2025-07-09,2025-07-29,40815,228702,7208,App Installs,Regular Customer,Completed,Central India
+CMP080,Aug Referral Revenue 080,Referral,2025-08-12,2025-08-27,31516,373969,23028,Revenue Growth,New Customer,Paused,West India
+CMP081,Sep Paid Search App 081,Paid Search,2025-09-03,2025-09-17,105925,239939,9348,App Installs,Regular Customer,Completed,West India
+CMP082,Oct Referral Revenue 082,Referral,2025-10-11,2025-10-28,32770,388939,16149,Revenue Growth,Regular Customer,Paused,North India
+CMP083,Nov Referral App 083,Referral,2025-11-11,2025-11-27,31497,316633,16345,App Installs,Regular Customer,Paused,South India
+CMP084,Dec Social Media Retention 084,Social Media,2025-12-08,2025-12-23,76947,344371,11303,Retention,Regular Customer,Completed,Central India
+CMP085,Jan Social Media Retention 085,Social Media,2025-01-01,2025-01-29,77069,323006,10154,Retention,Regular Customer,Completed,South India
+CMP086,Feb Display Ads App 086,Display Ads,2025-02-10,2025-02-24,80739,502567,7801,App Installs,New Customer,Paused,East India
+CMP087,Mar Social Media Customer 087,Social Media,2025-03-11,2025-03-31,103491,473097,14442,Customer Acquisition,Premium Customer,Completed,East India
+CMP088,Apr Paid Search Lead 088,Paid Search,2025-04-12,2025-04-30,177968,483104,20606,Lead Generation,New Customer,Completed,South India
+CMP089,May Paid Search Retention 089,Paid Search,2025-05-02,2025-05-28,20375,57212,2611,Retention,Regular Customer,Completed,North India
+CMP090,Jun Social Media App 090,Social Media,2025-06-09,2025-06-28,59291,244796,6866,App Installs,Regular Customer,Completed,East India
+CMP091,Jul Email Revenue 091,Email,2025-07-12,2025-07-31,48237,597475,20045,Revenue Growth,New Customer,Completed,Central India
+CMP092,Aug Paid Search Revenue 092,Paid Search,2025-08-07,2025-08-22,128958,394519,17532,Revenue Growth,Regular Customer,Completed,Central India
+CMP093,Sep Paid Search Revenue 093,Paid Search,2025-09-12,2025-09-30,82242,216586,10628,Revenue Growth,Regular Customer,Paused,Central India
+CMP094,Oct Email App 094,Email,2025-10-12,2025-10-31,50271,758727,30049,App Installs,Inactive Customer,Paused,South India
+CMP095,Nov Display Ads Revenue 095,Display Ads,2025-11-01,2025-11-19,83484,557141,5778,Revenue Growth,Regular Customer,Completed,South India
+CMP096,Dec Display Ads Revenue 096,Display Ads,2025-12-06,2025-12-28,37344,265368,4456,Revenue Growth,Regular Customer,Completed,East India
+CMP097,Jan Display Ads Revenue 097,Display Ads,2025-01-01,2025-01-20,60061,366899,3263,Revenue Growth,Regular Customer,Completed,North India
+CMP098,Feb Paid Search Lead 098,Paid Search,2025-02-09,2025-02-28,172405,400571,23168,Lead Generation,New Customer,Completed,East India
+CMP099,Mar Email Lead 099,Email,2025-03-11,2025-03-27,36513,513945,15496,Lead Generation,Regular Customer,Completed,Central India
+CMP100,Apr Social Media Retention 100,Social Media,2025-04-07,2025-04-26,105932,518832,12561,Retention,New Customer,Completed,North India
+CMP101,May Social Media Lead 101,Social Media,2025-05-12,2025-05-27,112483,609524,19591,Lead Generation,New Customer,Completed,West India
+CMP102,Jun Affiliate Retention 102,Affiliate,2025-06-01,2025-06-20,55617,192100,7180,Retention,Regular Customer,Completed,North India
+CMP103,Jul Social Media Retention 103,Social Media,2025-07-03,2025-07-18,58305,281593,9332,Retention,New Customer,Completed,South India
+CMP104,Aug Display Ads Retention 104,Display Ads,2025-08-08,2025-08-26,87653,517655,5925,Retention,New Customer,Completed,South India
+CMP105,Sep Social Media Revenue 105,Social Media,2025-09-10,2025-09-28,68946,370650,11027,Revenue Growth,Inactive Customer,Completed,West India
+CMP106,Oct Social Media Lead 106,Social Media,2025-10-04,2025-10-24,18447,83224,1734,Lead Generation,New Customer,Paused,West India
+CMP107,Nov Social Media Retention 107,Social Media,2025-11-10,2025-11-30,101105,536156,13755,Retention,Premium Customer,Completed,North India
+CMP108,Dec Display Ads Customer 108,Display Ads,2025-12-10,2025-12-28,64776,456124,4389,Customer Acquisition,Inactive Customer,Completed,South India
+CMP109,Jan Social Media Lead 109,Social Media,2025-01-08,2025-01-22,83855,378300,9768,Lead Generation,New Customer,Completed,Central India
+CMP110,Feb Social Media Lead 110,Social Media,2025-02-06,2025-02-28,82986,455093,14104,Lead Generation,Inactive Customer,Completed,South India
+CMP111,Mar Referral Lead 111,Referral,2025-03-02,2025-03-23,43874,552737,41432,Lead Generation,Inactive Customer,Paused,South India
+CMP112,Apr Paid Search App 112,Paid Search,2025-04-02,2025-04-28,118434,302827,15874,App Installs,Regular Customer,Completed,West India
+CMP113,May Social Media Retention 113,Social Media,2025-05-11,2025-05-28,43339,197758,3908,Retention,New Customer,Completed,East India
+CMP114,Jun Display Ads Lead 114,Display Ads,2025-06-12,2025-06-30,74437,401159,5406,Lead Generation,New Customer,Completed,Central India
+CMP115,Jul Social Media Lead 115,Social Media,2025-07-03,2025-07-23,66200,366360,7585,Lead Generation,Regular Customer,Completed,East India
+CMP116,Aug Affiliate App 116,Affiliate,2025-08-11,2025-08-26,30298,109808,2519,App Installs,New Customer,Completed,North India
+CMP117,Sep Referral Customer 117,Referral,2025-09-06,2025-09-21,17837,210633,14910,Customer Acquisition,Regular Customer,Completed,West India
+CMP118,Oct Display Ads App 118,Display Ads,2025-10-08,2025-10-23,53371,285884,3015,App Installs,New Customer,Completed,Central India
+CMP119,Nov Affiliate Revenue 119,Affiliate,2025-11-04,2025-11-19,38959,167569,4933,Revenue Growth,New Customer,Completed,Central India
+CMP120,Dec Affiliate Revenue 120,Affiliate,2025-12-01,2025-12-19,65447,234782,8076,Revenue Growth,New Customer,Completed,North India
+CMP121,Jan Affiliate Customer 121,Affiliate,2025-01-01,2025-01-20,61125,213350,7911,Customer Acquisition,New Customer,Completed,Central India
+CMP122,Feb Email Lead 122,Email,2025-02-02,2025-02-27,26194,365287,13481,Lead Generation,Regular Customer,Paused,West India
+CMP123,Mar Referral Customer 123,Referral,2025-03-12,2025-03-31,26144,308587,14796,Customer Acquisition,New Customer,Completed,East India
+CMP124,Apr Email App 124,Email,2025-04-07,2025-04-30,32516,497173,14103,App Installs,Regular Customer,Completed,North India
+CMP125,May Social Media Retention 125,Social Media,2025-05-05,2025-05-28,64858,363892,9702,Retention,New Customer,Paused,Central India
+CMP126,Jun Affiliate Retention 126,Affiliate,2025-06-07,2025-06-22,78437,343808,12903,Retention,Regular Customer,Completed,East India
+CMP127,Jul Paid Search Customer 127,Paid Search,2025-07-08,2025-07-31,100418,260895,14624,Customer Acquisition,New Customer,Completed,South India
+CMP128,Aug Display Ads Lead 128,Display Ads,2025-08-06,2025-08-22,61538,337755,4446,Lead Generation,New Customer,Completed,North India
+CMP129,Sep Social Media App 129,Social Media,2025-09-09,2025-09-23,65287,276797,7279,App Installs,Premium Customer,Completed,West India
+CMP130,Oct Paid Search Lead 130,Paid Search,2025-10-05,2025-10-28,151808,359969,19521,Lead Generation,New Customer,Completed,South India
+CMP131,Nov Email Retention 131,Email,2025-11-09,2025-11-28,33747,446183,17596,Retention,Inactive Customer,Paused,Central India
+CMP132,Dec Social Media Customer 132,Social Media,2025-12-11,2025-12-31,58003,297982,6952,Customer Acquisition,New Customer,Completed,South India
+CMP133,Jan Paid Search Customer 133,Paid Search,2025-01-06,2025-01-20,150565,345888,20028,Customer Acquisition,New Customer,Paused,North India
+CMP134,Feb Social Media Retention 134,Social Media,2025-02-07,2025-02-27,96302,438883,13885,Retention,Regular Customer,Completed,North India
+CMP135,Mar Social Media Lead 135,Social Media,2025-03-03,2025-03-29,76279,388092,9482,Lead Generation,Regular Customer,Completed,South India
+CMP136,Apr Social Media Retention 136,Social Media,2025-04-04,2025-04-30,78503,401416,12050,Retention,Regular Customer,Completed,West India
+CMP137,May Referral Revenue 137,Referral,2025-05-04,2025-05-24,35347,456352,26130,Revenue Growth,Premium Customer,Completed,South India
+CMP138,Jun Social Media Revenue 138,Social Media,2025-06-02,2025-06-16,73651,359750,10475,Revenue Growth,Regular Customer,Completed,West India
+CMP139,Jul Display Ads App 139,Display Ads,2025-07-07,2025-07-31,49972,273501,3832,App Installs,Regular Customer,Paused,East India
+CMP140,Aug Paid Search Retention 140,Paid Search,2025-08-12,2025-08-31,125169,315285,15504,Retention,Regular Customer,Completed,West India
+CMP141,Sep Email App 141,Email,2025-09-07,2025-09-30,25885,302320,11338,App Installs,Premium Customer,Completed,South India
+CMP142,Oct Social Media App 142,Social Media,2025-10-03,2025-10-18,106437,582339,18607,App Installs,Regular Customer,Completed,North India
+CMP143,Nov Paid Search Customer 143,Paid Search,2025-11-02,2025-11-18,128948,373447,19573,Customer Acquisition,New Customer,Completed,East India
+CMP144,Dec Social Media Retention 144,Social Media,2025-12-10,2025-12-31,64365,325560,325810,Retention,New Customer,Completed,North India
+CMP145,Jan Social Media App 145,Social Media,2025-01-08,2025-01-23,56205,279731,5984,App Installs,Regular Customer,Completed,East India
+CMP146,Feb Email Customer 146,Email,2025-02-08,2025-02-22,36922,558852,18334,Customer Acquisition,Regular Customer,Paused,East India
+CMP147,Mar Social Media Retention 147,Social Media,2025-03-08,2025-03-31,98148,466629,8234,Retention,Regular Customer,Completed,Central India
+CMP148,Apr Email App 148,Email,2025-04-08,2025-04-30,39239,599944,21667,App Installs,Inactive Customer,Completed,Central India
+CMP149,May Email Retention 149,Email,2025-05-11,2025-05-27,27086,369432,6039,Retention,New Customer,Completed,South India
+CMP150,Jun Affiliate App 150,Affiliate,2025-06-07,2025-06-27,57619,234507,7104,App Installs,New Customer,Completed,Central India
+CMP151,Jul Paid Search Revenue 151,Paid Search,2025-07-11,2025-07-31,111929,338465,12028,Revenue Growth,New Customer,Paused,North India
+CMP152,Aug Referral Customer 152,Referral,2025-08-06,2025-08-24,27334,317792,14503,Customer Acquisition,New Customer,Completed,South India
+CMP153,Sep Display Ads Customer 153,Display Ads,2025-09-03,2025-09-27,133457,960146,9971,Customer Acquisition,Regular Customer,Completed,Central India
+CMP154,Oct Paid Search Lead 154,Paid Search,2025-10-06,2025-10-20,129898,397464,21237,Lead Generation,New Customer,Completed,North India
+CMP155,Nov Affiliate Retention 155,Affiliate,2025-11-02,2025-11-20,83210,360231,13641,Retention,New Customer,Completed,Central India
+CMP156,Dec Paid Search Revenue 156,Paid Search,2025-12-03,2025-12-26,153209,445298,27557,Revenue Growth,Regular Customer,Completed,East India
+CMP157,Jan Display Ads Lead 157,Display Ads,2025-01-06,2025-01-30,96429,661918,8200,Lead Generation,New Customer,Completed,South India
+CMP158,Feb Affiliate Lead 158,Affiliate,2025-02-08,2025-02-28,32518,146939,6217,Lead Generation,Premium Customer,Completed,Central India
+CMP159,Mar Referral App 159,Referral,2025-03-09,2025-03-29,36161,359870,13945,App Installs,New Customer,Completed,South India
+CMP160,Apr Email Revenue 160,Email,2025-04-09,2025-04-30,45840,577016,14349,Revenue Growth,New Customer,Paused,North India
+CMP161,May Referral Customer 161,Referral,2025-05-07,2025-05-22,31608,339035,22266,Customer Acquisition,Regular Customer,Completed,Central India
+CMP162,Jun Paid Search Customer 162,Paid Search,2025-06-06,2025-06-23,140880,354115,18067,Customer Acquisition,Premium Customer,Completed,North India
+CMP163,Jul Paid Search Lead 163,Paid Search,2025-07-03,2025-07-17,144913,341613,12402,Lead Generation,Regular Customer,Completed,West India
+CMP164,Aug Paid Search Lead 164,Paid Search,2025-08-01,2025-08-19,167073,462058,29828,Lead Generation,New Customer,Completed,North India
+CMP165,Sep Email Customer 165,Email,2025-09-05,2025-09-20,19746,263503,10646,Customer Acquisition,Premium Customer,Completed,Central India
+CMP166,Oct Social Media Customer 166,Social Media,2025-10-09,2025-10-23,51237,230839,5621,Customer Acquisition,Regular Customer,Completed,Central India
+CMP167,Nov Display Ads Retention 167,Display Ads,2025-11-07,2025-11-23,115633,630441,10244,Retention,Regular Customer,Paused,Central India
+CMP168,Dec Affiliate Customer 168,Affiliate,2025-12-01,2025-12-21,75999,284467,9540,Customer Acquisition,Regular Customer,Completed,South India
+CMP169,Jan Display Ads Revenue 169,Display Ads,2025-01-04,2025-01-29,90585,622604,9260,Revenue Growth,New Customer,Paused,South India
+CMP170,Feb Affiliate Revenue 170,Affiliate,2025-02-11,2025-02-27,41151,159525,2735,Revenue Growth,Premium Customer,Completed,East India
+CMP171,Mar Paid Search App 171,Paid Search,2025-03-01,2025-03-19,137878,346199,10593,App Installs,Regular Customer,Paused,East India
+CMP172,Apr Display Ads App 172,Display Ads,2025-04-05,2025-04-19,76661,530723,7987,App Installs,New Customer,Completed,East India
+CMP173,May Social Media Lead 173,Social Media,2025-05-07,2025-05-31,105853,459527,12297,Lead Generation,Regular Customer,Paused,South India
+CMP174,Jun Social Media App 174,Social Media,2025-06-02,2025-06-27,14642,63417,2215,App Installs,New Customer,Completed,South India
+CMP175,Jul Paid Search App 175,Paid Search,2025-07-11,2025-07-29,91699,260044,11058,App Installs,Regular Customer,Completed,Central India
+CMP176,Aug Social Media Lead 176,Social Media,2025-08-07,2025-08-25,87107,444449,11700,Lead Generation,Regular Customer,Completed,West India
+CMP177,Sep Social Media App 177,Social Media,2025-09-03,2025-09-30,86238,358169,9557,App Installs,Regular Customer,Paused,West India
+CMP178,Oct Display Ads Retention 178,Display Ads,2025-10-10,2025-10-26,87937,605565,7440,Retention,New Customer,Completed,East India
+CMP179,Nov Paid Search Retention 179,Paid Search,2025-11-06,2025-11-30,127463,305708,14525,Retention,Regular Customer,Paused,West India
+CMP180,Dec Paid Search Lead 180,Paid Search,2025-12-05,2025-12-31,13736,34131,1965,Lead Generation,New Customer,Completed,West India
+CMP181,Jan Referral App 181,Referral,2025-01-08,2025-01-24,26611,317864,17938,App Installs,Regular Customer,Completed,Central India
+CMP182,Feb Referral Revenue 182,Referral,2025-02-09,2025-02-27,37879,486541,20651,Revenue Growth,Premium Customer,Paused,North India
+CMP183,Mar Affiliate Retention 183,Affiliate,2025-03-02,2025-03-19,61632,229720,8890,Retention,Regular Customer,Paused,North India
+CMP184,Apr Email Retention 184,Email,2025-04-10,2025-04-30,20900,302973,17631,Retention,Regular Customer,Completed,Central India
+CMP185,May Referral App 185,Referral,2025-05-02,2025-05-18,24250,289500,13478,App Installs,New Customer,Paused,Central India
+CMP186,Jun Referral Customer 186,Referral,2025-06-03,2025-06-29,13165,127010,8121,Customer Acquisition,Regular Customer,Completed,North India
+CMP187,Jul Referral App 187,Referral,2025-07-03,2025-07-22,33130,375928,29603,App Installs,Premium Customer,Completed,North India
+CMP188,Aug Paid Search Revenue 188,Paid Search,2025-08-11,2025-08-31,87203,202134,7997,Revenue Growth,Regular Customer,Paused,North India
+CMP189,Sep Social Media Customer 189,Social Media,2025-09-03,2025-09-27,102634,564436,14312,Customer Acquisition,Premium Customer,Completed,West India
+CMP190,Oct Affiliate Retention 190,Affiliate,2025-10-01,2025-10-25,58936,235473,8464,Retention,Regular Customer,Completed,Central India
+CMP191,Nov Referral App 191,Referral,2025-11-05,2025-11-29,14905,178205,10142,App Installs,Regular Customer,Completed,North India
+CMP192,Dec Social Media App 192,Social Media,2025-12-08,2025-12-28,94262,427838,14803,App Installs,Regular Customer,Completed,East India
+CMP193,Jan Paid Search App 193,Paid Search,2025-01-03,2025-01-29,92723,244968,11057,App Installs,Regular Customer,Completed,West India
+CMP194,Feb Referral Revenue 194,Referral,2025-02-01,2025-02-19,35746,463779,21907,Revenue Growth,Premium Customer,Paused,South India
+CMP195,Mar Email Lead 195,Email,2025-03-04,2025-03-30,45987,699060,24342,Lead Generation,New Customer,Completed,Central India
+CMP196,Apr Paid Search Lead 196,Paid Search,2025-04-08,2025-04-25,113481,302610,15197,Lead Generation,New Customer,Completed,West India
+CMP197,May Affiliate Lead 197,Affiliate,2025-05-07,2025-05-23,55979,209008,4663,Lead Generation,New Customer,Paused,North India
+CMP198,Jun Paid Search Retention 198,Paid Search,2025-06-06,2025-06-28,92220,250317,13564,Retention,Regular Customer,Completed,North India
+CMP199,Jul Paid Search Revenue 199,Paid Search,2025-07-02,2025-07-22,162777,415788,19577,Revenue Growth,New Customer,Paused,East India
+CMP200,Aug Email Lead 200,Email,2025-08-09,2025-08-23,40747,546735,21487,Lead Generation,New Customer,Paused,North India
